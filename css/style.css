@@ -1374,7 +1374,7 @@ body {
         margin-bottom: 40px;
     }
     .button-ready {
-        color: #251928;
+        color: black !important;
         margin-left: 0;
         width: 187px;
         height: 54px;
